@@ -33,7 +33,7 @@ All sensitive environment variables are stored in .env and ignored via .gitignor
 
 MongoDB connection string is hidden using dotenv.
 
-#How to Run
+# How to Run
 # Backend
 
 cd backend
