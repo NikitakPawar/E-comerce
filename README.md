@@ -1,4 +1,4 @@
-![Screenshot 2025-06-30 103333](https://github.com/user-attachments/assets/47e9984f-213b-4ebd-a328-c3948acb73a8)# E-commerce
+# E-commerce
 This is a full-stack e-commerce web application built with the MERN stack. It allows users to browse products, add items to the cart, and register/login securely. Admins can manage products through a dashboard.
 
 🚀 Features
