@@ -20,29 +20,32 @@ This is a full-stack e-commerce web application built with the MERN stack. It al
 
 # Tech Stack
 rontend:
-HTML, CSS, JavaScript
-React.js
+
+HTML, CSS, JavaScript,React.js
 Context API for state management
+
 Backend:
-Node.js
-Express.js
-MongoDB with Mongoose
-Multer (for image upload)
-JWT (for authentication)
-dotenv (for secure environment variables)
+Node.js,Express.js,MongoDB with Mongooseter (for image upload)
+JWT (for authentication),dotenv (for secure environment variables)
 
 #Security
 All sensitive environment variables are stored in .env and ignored via .gitignore.
+
 MongoDB connection string is hidden using dotenv.
 
 #How to Run
 # Backend
+
 cd backend
+
 npm install
+
 node index.js
 
 # Frontend
 cd frontend
+
 npm install
+
 npm start
 
