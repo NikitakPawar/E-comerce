@@ -3,12 +3,19 @@ This is a full-stack e-commerce web application built with the MERN stack. It al
 
 🚀 Features
 1.User Authentication (Sign up / Login)
+
 2.Secure JWT-based user sessions
+
 3.Product listing by category
+
 4.Add to Cart / Remove from Cart
+
 5.MongoDB Database integration
+
 6.File/image upload with Multer
+
 7.RESTful API built with Express.js
+
 8.Admin access for product management
 
 # Tech Stack
